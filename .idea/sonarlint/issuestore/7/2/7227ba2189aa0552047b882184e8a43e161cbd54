@@ -1,0 +1,32 @@
+
+e
+java:S2095H"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(©üÌüúÿÿÿÿ
+Z
+java:S2095c"DUse try-with-resources or close this "Socket" in a "finally" clause.(­ØÇ±
+Z
+java:S2095["DUse try-with-resources or close this "Socket" in a "finally" clause.(è²–…
+_
+java:S2095O"DUse try-with-resources or close this "Socket" in a "finally" clause.(óü•ýþÿÿÿÿ
+e
+java:S1192O"JDefine a constant instead of duplicating this literal "localhost" 3 times.(óü•ýþÿÿÿÿ
+>
+java:S11488"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ó©·€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŽÊ„²øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³‘ƒáùÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Ð‚úî
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÖÍ´’
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Ì”Œ»øÿÿÿÿ
+>	java:S108:")Either remove or fill this block of code.(£ðÕê
+c	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§›ùÌ
+J
+java:S1172@"4Remove this unused method parameter "inputToServer".(§›ùÌ
+b	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌØˆ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(ÄÒ×šýÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(ÔÜÒŽ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(ü­€ÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(º¢Áó
+‡
+java:S1130~"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(àÒþüøÿÿÿÿ
+’
+java:S1130~"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(àÒþüøÿÿÿÿ

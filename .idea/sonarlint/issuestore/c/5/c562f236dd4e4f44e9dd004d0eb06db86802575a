@@ -1,0 +1,19 @@
+
+e
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¦Ğ¯êüÿÿÿÿ
+`
+java:S2095N"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Ó€‘á
+8
+java:S2189M""Add an end condition to this loop.(´ÿÕ™
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+c	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶˜ÀĞ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(á§ì
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(‹£¸’
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(÷ÏóŞùÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(˜°êşÿÿÿÿ
+h	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ô…‡ÿÿÿÿÿ
+M
+java:S1172A"2Remove this unused method parameter "serverInput".(„ô…‡ÿÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(æàë»
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(õùë

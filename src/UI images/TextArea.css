@@ -1,0 +1,11 @@
+.text-area {
+	text-area-background: #000000;
+	-fx-text-fill: #0000ff;
+	-fx-font-size: 22px;
+	-fx-font-family: Trebuchet MS;
+
+	}
+.text-area .content {
+	-fx-background-color: text-area-background;
+	}
+	

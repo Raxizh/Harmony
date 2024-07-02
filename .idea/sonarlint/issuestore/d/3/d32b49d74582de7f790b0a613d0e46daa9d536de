@@ -1,0 +1,39 @@
+
+>
+java:S11488"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(©˜þ±ûÿÿÿÿ
+q	java:S116#"WRename this field "ScreenHeight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÀôìÿÿÿÿÿ
+H
+java:S1481>"-Remove this unused "idNumber" local variable.(Íèç­úÿÿÿÿ
+[
+java:S2184B"ECast one of the operands of this subtraction operation to a "double".(í•·¥
+œ
+java:S1186v"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•‘ÝŸüÿÿÿÿ
+Ÿ
+java:S1130,"ƒRemove the declaration of thrown exception 'java.security.spec.InvalidKeySpecException', as it cannot be thrown from method's body.(ü„Õ¯ÿÿÿÿÿ
+P	java:S125&"<This block of commented-out lines of code should be removed.(ŒÛÚ-
+^
+java:S2259<"HA "NullPointerException" could be thrown; "user_login" is nullable here.(È—Ñ•
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+Q	java:S125R"<This block of commented-out lines of code should be removed.(Àôã™
+Q
+java:S1128";Remove this unused import 'javafx.scene.layout.AnchorPane'.(Ø µ
+L
+java:S1128"6Remove this unused import 'javafx.event.EventHandler'.(º»û˜
+k	java:S116""VRename this field "ScreenWidth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±€§§
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(äÎ¬
+[
+java:S2184k"ECast one of the operands of this subtraction operation to a "double".(øð›‚
+Q	java:S125p"<This block of commented-out lines of code should be removed.(òŽÛ¢
+T
+java:S1128"9Remove this unused import 'javafx.scene.layout.GridPane'.(ÖÀ¹¯ûÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ñáöþøÿÿÿÿ
+[
+java:S2184c"ECast one of the operands of this subtraction operation to a "double".(Ù¸Â
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Ó½»üÿÿÿÿ
+š
+java:S1130,"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(ü„Õ¯ÿÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ÓÙÜ™
+I
+java:S1128"4Remove this unused import 'javafx.stage.StageStyle'.(¶©2

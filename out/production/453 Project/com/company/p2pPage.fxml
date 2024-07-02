@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.BoxBlur?>
+<?import javafx.scene.effect.Light.Distant?>
+<?import javafx.scene.effect.Lighting?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.TextFlow?>
+
+<AnchorPane prefHeight="1020.0" prefWidth="1920.0" style="-fx-background-color: #000000;" styleClass="bodybg" stylesheets="@UI%20images/loginBackground.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.company.p2pController">
+   <children>
+      <HBox blendMode="HARD_LIGHT" layoutX="646.0" layoutY="-15.0" prefHeight="100.0" prefWidth="200.0" styleClass="bodybg" stylesheets="@../../UI%20images/p2pStyleSheet.css" AnchorPane.bottomAnchor="940.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="-15.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="70.0" prefWidth="608.0" text="Harmony" textFill="#1e00ff">
+               <font>
+                  <Font name="Trebuchet MS" size="48.0" />
+               </font>
+               <HBox.margin>
+                  <Insets left="700.0" top="10.0" />
+               </HBox.margin>
+            </Label>
+            <Button fx:id="p2pLogoutButton" mnemonicParsing="false" onAction="#handleChatExitButton" prefHeight="50.0" prefWidth="141.0" text="Logout">
+               <font>
+                  <Font size="24.0" />
+               </font>
+               <effect>
+                  <Lighting>
+                     <bumpInput>
+                        <BoxBlur />
+                     </bumpInput>
+                     <light>
+                        <Light.Distant />
+                     </light>
+                  </Lighting>
+               </effect>
+               <HBox.margin>
+                  <Insets left="-1280.0" top="30.0" />
+               </HBox.margin>
+            </Button>
+         </children>
+      </HBox>
+      <TextField fx:id="p2pTextField" alignment="TOP_LEFT" layoutX="3.0" layoutY="954.0" onAction="#SendText" prefHeight="80.0" prefWidth="1921.0" promptText="Enter text here..." style="-fx-background-color: #000000;">
+         <font>
+            <Font name="Trebuchet MS" size="18.0" />
+         </font></TextField>
+      <Button fx:id="sendButton" layoutX="1753.0" layoutY="960.0" mnemonicParsing="false" onAction="#SendText" prefHeight="50.0" prefWidth="141.0" text="Send">
+         <font>
+            <Font size="24.0" />
+         </font>
+         <effect>
+            <Lighting>
+               <bumpInput>
+                  <BoxBlur />
+               </bumpInput>
+               <light>
+                  <Light.Distant />
+               </light>
+            </Lighting>
+         </effect>
+      </Button>
+      <ScrollPane fx:id="textContainer" layoutY="84.0" prefHeight="869.0" prefWidth="1922.0" style="-fx-background-color: #000000;" stylesheets="@../../UI%20images/scrollPane.css">
+         <content>
+            <TextFlow fx:id="textFlow" prefHeight="866.0" prefWidth="1918.0" styleClass="bodybg">
+               <stylesheets>
+                  <URL value="@../../UI%20images/p2pStyleSheet.css" />
+                  <URL value="@../../UI%20images/loginBackground.css" />
+               </stylesheets>
+            </TextFlow>
+         </content>
+      </ScrollPane>
+      <Line endX="1633.29296875" endY="-7.0" layoutX="280.0" layoutY="960.0" startX="-280.0" startY="-7.0" stroke="#000eff" />
+   </children>
+</AnchorPane>

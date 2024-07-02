@@ -1,0 +1,21 @@
+
+[
+java:S2184Q"ECast one of the operands of this subtraction operation to a "double".(Ù¸Â
+>
+java:S1148F"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+^
+java:S2259M"HA "NullPointerException" could be thrown; "user_login" is nullable here.(ˆî£«
+œ
+java:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•‘ÝŸüÿÿÿÿ
+k	java:S116"VRename this field "ScreenWidth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±€§§
+q	java:S116 "WRename this field "ScreenHeight" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÀôìÿÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ÈÕ‘Íøÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(©Æ“Ñ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¼¦Ý­ûÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(Œ¾Àåþÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(Ë¯¨¼ûÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ÞþÀ¶ýÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ÿ˜Œƒ
+M	java:S106L"9Replace this use of System.out or System.err by a logger.(õ·–c
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ñ¾Õ¹
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(¤†òÙ

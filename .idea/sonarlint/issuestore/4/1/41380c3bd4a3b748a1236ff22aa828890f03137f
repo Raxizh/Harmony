@@ -1,0 +1,13 @@
+
+t
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ó±°°ùÿÿÿÿ
+3
+java:S2119"Save and re-use this "Random".(¼ÝÅf
+M
+java:S1135."2Complete the task associated to this TODO comment.(èÊŽ¯ûÿÿÿÿ
+•
+java:S1130F"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(™¡Í“
+\
+java:S3457M"AFormat specifiers should be used instead of string concatenation.(¾ì¦¤ýÿÿÿÿ
+š
+java:S1130e"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(¢‹€ƒþÿÿÿÿ

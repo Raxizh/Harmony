@@ -1,0 +1,48 @@
+
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ñ™ã‚ûÿÿÿÿ
+•
+java:S1319‰"yThe type of the "loaded_user_DB" object should be an interface such as "List" rather than the implementation "ArrayList".(˜üğ«úÿÿÿÿ
+b
+java:S2095!"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ë×˜Úúÿÿÿÿ
+b
+java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(Óª·üÿÿÿÿ
+j
+java:S2095c"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²›Üüÿÿÿÿ
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ƒøÕÒ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒøÕÒ
+>
+java:S11483"#Use a logger to log this exception.(Ö·÷şÿÿÿÿ
+9
+java:S1148L"#Use a logger to log this exception.(Ç’Çê
+>
+java:S1148j"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+P
+java:S1128":Remove this unused import 'javax.swing.border.LineBorder'.(¢è·¥
+M
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘
+i	java:S116"TRename this field "id_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆùÎ
+l	java:S116"WRename this field "login_Sucess" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( âğÆ
+B
+java:S1948",Make "controller" transient or serializable.(¯òõŠ
+O
+java:S1948"4Make "creationController" transient or serializable.(ı¨üÿÿÿÿ
+B
+java:S1948",Make "connection" transient or serializable.(ê¨Šæ
+?
+java:S2115")Add password protection to this database.(ê¨Šæ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ™ã‚ûÿÿÿÿ
+D
+java:S2115")Add password protection to this database.(Óª·üÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ª—óıÿÿÿÿ
+c	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°åê¡
+c	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾í„†
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(¼º«ğıÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(Õß±Ìûÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(½›½Æøÿÿÿÿ
+d	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¹Ğ
+B
+java:S1481U"'Remove this unused "ps" local variable.(ÚŸ«»øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(»§À°üÿÿÿÿ
